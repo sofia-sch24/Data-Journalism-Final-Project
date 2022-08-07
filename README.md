@@ -10,3 +10,6 @@ This is a project meant to assess movies and tv shows on Netflix's top 10 list. 
 genre column added from IMDB
 ![data google sheets](https://github.com/sofia-sch24/Data-Journalism-Final-Project/blob/5c1a19506c30ef1c8a3dfc149be32733d1536d7b/data%20netflix.png)
 
+## Questions and Process
+1. Which genre is the most popular among English films and which genre is most popular among Non-English films?
+ 
