@@ -12,4 +12,4 @@ genre column added from IMDB
 
 ## Questions and Process
 1. Which genre is the most popular among English films and which genre is most popular among Non-English films?
- 
+![english films genre](https://github.com/sofia-sch24/Data-Journalism-Final-Project/blob/5539ad8aa98a4f0722b3999819bf21a16abc4c22/fav%20genre%20among%20english%20movies.png)
