@@ -12,4 +12,11 @@ genre column added from IMDB
 
 ## Questions and Process
 1. Which genre is the most popular among English films and which genre is most popular among Non-English films?
+
+Genres among english films:
 ![english films genre](https://github.com/sofia-sch24/Data-Journalism-Final-Project/blob/5539ad8aa98a4f0722b3999819bf21a16abc4c22/fav%20genre%20among%20english%20movies.png)
+
+Genres among non-english films: 
+![non english films genre](https://github.com/sofia-sch24/Data-Journalism-Final-Project/blob/edd2ab95dc22d2c34f48da5509d1a9f6053ee609/fav%20genre%20among%20non-english%20movies.png)
+
+Because this isn't a very long list, we can count which genres of movies are the most popular. For English films, it seems that action movies are most popular. For Non-English films, it seems that thrillers are most popular. This isn't much of a difference in terms of popular genres because action films contain similar cinematic elements to thrillers. 
