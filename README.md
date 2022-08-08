@@ -24,3 +24,8 @@ Because this isn't a very long list, we can count which genres of movies are the
 
 2. Which genre is most often in the top 10 list?
 
+![how many genre](https://github.com/sofia-sch24/Data-Journalism-Final-Project/blob/64d755731f1fb03ff4f14231d1a8ffe06f64f155/how%20many%20genre.png)
+Creating a pivot table helps us assess overall which films usually make the top 10 list, regardless of language. Overall, the genre that continues to make the top 10 list is **drama**. 
+
+How I got to this answer: 
+Went to insert and added "create pivot table" into a new sheet. For columns, I put "genre" and for values, I put "count of rank". 
