@@ -58,3 +58,11 @@ How I got this answer: add filter, then used the formula in H2 which is =FILTER(
 To find this, I created a filter of TV shows containing the term Stranger Things. Then I added the amount of hours from column M, and got an answer of **1893100000 hours**. What is surprising is how Stranger Things is a top 10 show only among english audiences. The show didn't even make it to the top 10 list for non-english TV shows. 
 
 How I got this answer: add filter and used the formula in H2 which is =FILTER(A2:G41, D2:D41 = "Stranger Things")
+
+
+## Story Pitch and Sources
+
+
+## Data Visualization 
+
+![scatter plot](
