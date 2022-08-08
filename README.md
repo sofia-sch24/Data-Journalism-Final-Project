@@ -66,6 +66,12 @@ What intrigues me when it comes to this dataset is how I am able to compare tren
 
 I chose these questions because they give an overall glimpse into popular movies and genres among English and Non-English languages. The findings from Stranger Things did surprise me a bit because I actually believed that Squid Game was the most watched show and not Stranger Things. 
 
+My sources for this story pitch would include: 
+Samana G, a recent college graduate (925) 848-4941
+Mitzy W, a mom who works in auditing (310) 906-7323
+Bob W, a retired French Hornist for the LA Philharmonic (323) 295-1843
+
+These sources would provide me with a wide udnerstanding of interests and give me overall analysis into trending movies and TV shows among different age groups, genders, and ethnicities. I hope to find out whether Netflix's metrics for deciding what makes a show popular (hours viewed in the first 28 days) is actually an accurate assessment. This story would combine the data I've found in this project with the interviews I conduct. 
 ## Data Visualization 
 
 https://datawrapper.dwcdn.net/TC3p9/1/
