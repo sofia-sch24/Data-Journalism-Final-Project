@@ -65,4 +65,5 @@ How I got this answer: add filter and used the formula in H2 which is =FILTER(A2
 
 ## Data Visualization 
 
-![scatter plot](
+![scatter plot](https://github.com/sofia-sch24/Data-Journalism-Final-Project/blob/64f3eae4983ef99226f6f2f992a7c95fda1cc782/data%20visualization%20final%20project.png)
+
