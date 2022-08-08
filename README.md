@@ -40,7 +40,7 @@ How I found this:
 Went to insert and added "create a pivot table" in a new sheet. For columns, I put "language", for rows, I put "genre", and for values, I put "counta show_title"
 
 
-4. **Which movie or tv show overall was most popular based on amount of hours viewed in the first 28 days?**
+4. **Which movie or tv show overall was most popular based on amount of hours viewed in the first 28 days and the rank of the show?**
 
 
 ![popular movie/show](https://github.com/sofia-sch24/Data-Journalism-Final-Project/blob/8fea875a51cf6f5a7c07d0eca2553135bebb3577/most%20popular%20movie:tv%20show.png)
@@ -48,3 +48,7 @@ Went to insert and added "create a pivot table" in a new sheet. For columns, I p
 To find this, I had to create a filter of films and TV shows with the #1 rank. This should give me 4 columns. Then I assessed which ones had the most amount of hours. In conclusion, comparing both english and non-english audiences, the TV show Squid Game racked up the most amount of hours viewed within the first 24 days. 
 
 How I got this answer: add filter, then used the formula in H2 which is =FILTER(A2:G41, C2:C41 = "1")
+
+
+5. **How many hours of the Stranger Things was viewed globally in the first 28 days?**
+
