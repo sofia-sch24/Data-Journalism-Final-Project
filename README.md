@@ -45,7 +45,7 @@ Went to insert and added "create a pivot table" in a new sheet. For columns, I p
 
 ![popular movie/show](https://github.com/sofia-sch24/Data-Journalism-Final-Project/blob/8fea875a51cf6f5a7c07d0eca2553135bebb3577/most%20popular%20movie:tv%20show.png)
 
-To find this, I had to create a filter of films and TV shows with the #1 rank. This should give me 4 columns. Then I assessed which ones had the most amount of hours. In conclusion, comparing both english and non-english audiences, the TV show Squid Game racked up the most amount of hours viewed within the first 24 days. 
+To find this, I had to create a filter of films and TV shows with the #1 rank. This should give me 4 columns. Then I assessed which ones had the most amount of hours. In conclusion, comparing both english and non-english shows/movies, the TV show Squid Game racked up the most amount of hours viewed within the first 24 days. 
 
 How I got this answer: add filter, then used the formula in H2 which is =FILTER(A2:G41, C2:C41 = "1")
 
@@ -55,13 +55,16 @@ How I got this answer: add filter, then used the formula in H2 which is =FILTER(
 
 ![stranger things](https://github.com/sofia-sch24/Data-Journalism-Final-Project/blob/1170c86030592872232ecae3cde28c478d2c1a7a/stranger%20things%20hours.png)
 
-To find this, I created a filter of TV shows containing the term Stranger Things. Then I added the amount of hours from column M, and got an answer of **1893100000 hours**. What is surprising is how Stranger Things is a top 10 show only among english audiences. The show didn't even make it to the top 10 list for non-english TV shows. 
+To find this, I created a filter of TV shows containing the term Stranger Things. Then I added the amount of hours from column M, and got an answer of **1893100000 hours**. 
 
 How I got this answer: add filter and used the formula in H2 which is =FILTER(A2:G41, D2:D41 = "Stranger Things")
 
 
 ## Story Pitch and Sources
 
+What intrigues me when it comes to this dataset is how I am able to compare trends among genre popularity and differences among shows/movies viewed in English and Non-English languages. I would like to interview both English and Non-English audiences to see if there are cultural differences that guide genre viewing. I'm curious to see whether the people I interview watch the TV shows and movies that are currently in the top 10 list on Netflix. I hope to compare these responses between English and Non-English speaking audiences. I would also try to gather a wide array of people to conduct interviews/surveys based on age, gender, and ethnicity. 
+
+I chose these questions because they give an overall glimpse into popular movies and genres among English and Non-English languages. The findings from Stranger Things did surprise me a bit because I actually believed that Squid Game was the most watched show and not Stranger Things. 
 
 ## Data Visualization 
 
