@@ -43,7 +43,7 @@ Went to insert and added "create a pivot table" in a new sheet. For columns, I p
 4. **Which movie or tv show overall was most popular based on amount of hours viewed in the first 28 days?**
 
 
-![popular movie/show(
+![popular movie/show(https://github.com/sofia-sch24/Data-Journalism-Final-Project/blob/8fea875a51cf6f5a7c07d0eca2553135bebb3577/most%20popular%20movie:tv%20show.png)
 
 To find this, I had to create a filter of films and TV shows with the #1 rank. This should give me 4 columns. Then I assessed which ones had the most amount of hours. In conclusion, comparing both english and non-english audiences, the TV show Squid Game racked up the most amount of hours viewed within the first 24 days. 
 
