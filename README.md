@@ -20,3 +20,7 @@ Genres among non-english films:
 ![non english films genre](https://github.com/sofia-sch24/Data-Journalism-Final-Project/blob/edd2ab95dc22d2c34f48da5509d1a9f6053ee609/fav%20genre%20among%20non-english%20movies.png)
 
 Because this isn't a very long list, we can count which genres of movies are the most popular. For English films, it seems that drama movies are most popular. For Non-English films, it seems that thrillers are most popular. This isn't much of a difference in terms of popular genres because drama films contain similar cinematic elements to thrillers. 
+
+
+2. Which genre is most often in the top 10 list?
+
