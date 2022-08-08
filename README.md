@@ -32,7 +32,7 @@ Went to insert and added "create pivot table" into a new sheet. For columns, I p
 
 3. **Which genre was less popular on the top 10 list?**
 
-![less popular genre](
+![less popular genre](https://github.com/sofia-sch24/Data-Journalism-Final-Project/blob/1045fd88b4427cbe6b20e14baf78b36161ae9789/less%20popular%20genre.png)
 
 To get this answer, I created a pivot table of different genres of movies and split them up amongst english and non-english films to compare. Overall, I decided that the least popular drama were romances because there was only one top ten film that was a romance in the non-english category. There were other columns with just one film such as comedy, crime, and mystery but these have a connect to other film genres such as "action_comedy" and "thriller". Romance movies on their own are a completely different genre that contains very different elements. 
 
