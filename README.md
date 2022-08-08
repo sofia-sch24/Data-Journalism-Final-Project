@@ -11,7 +11,7 @@ genre column added from IMDB
 ![data google sheets](https://github.com/sofia-sch24/Data-Journalism-Final-Project/blob/5c1a19506c30ef1c8a3dfc149be32733d1536d7b/data%20netflix.png)
 
 ## Questions and Process
-1. Which genre is the most popular among English films and which genre is most popular among Non-English films?
+1. **Which genre is the most popular among English films and which genre is most popular among Non-English films?**
 
 Genres among english films:
 ![english films genre](https://github.com/sofia-sch24/Data-Journalism-Final-Project/blob/5539ad8aa98a4f0722b3999819bf21a16abc4c22/fav%20genre%20among%20english%20movies.png)
@@ -22,10 +22,19 @@ Genres among non-english films:
 Because this isn't a very long list, we can count which genres of movies are the most popular. For English films, it seems that drama movies are most popular. For Non-English films, it seems that thrillers are most popular. This isn't much of a difference in terms of popular genres because drama films contain similar cinematic elements to thrillers. 
 
 
-2. Which genre is most often in the top 10 list?
+2. **Which genre is most often in the top 10 list?**
 
 ![how many genre](https://github.com/sofia-sch24/Data-Journalism-Final-Project/blob/64d755731f1fb03ff4f14231d1a8ffe06f64f155/how%20many%20genre.png)
 Creating a pivot table helps us assess overall which films usually make the top 10 list, regardless of language. Overall, the genre that continues to make the top 10 list is **drama**. 
 
 How I got to this answer: 
 Went to insert and added "create pivot table" into a new sheet. For columns, I put "genre" and for values, I put "count of rank". 
+
+3. **Which genre was less popular on the top 10 list?**
+
+![less popular genre](
+
+To get this answer, I created a pivot table of different genres of movies and split them up amongst english and non-english films to compare. Overall, I decided that the least popular drama were romances because there was only one top ten film that was a romance in the non-english category. There were other columns with just one film such as comedy, crime, and mystery but these have a connect to other film genres such as "action_comedy" and "thriller". Romance movies on their own are a completely different genre that contains very different elements. 
+
+How I found this: 
+Went to insert and added "create a pivot table" in a new sheet. For columns, I put "language", for rows, I put "genre", and for values, I put "counta show_title"
