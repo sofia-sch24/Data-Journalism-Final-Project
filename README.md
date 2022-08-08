@@ -52,3 +52,9 @@ How I got this answer: add filter, then used the formula in H2 which is =FILTER(
 
 5. **How many hours of the Stranger Things was viewed globally in the first 28 days?**
 
+
+![stranger things](https://github.com/sofia-sch24/Data-Journalism-Final-Project/blob/1170c86030592872232ecae3cde28c478d2c1a7a/stranger%20things%20hours.png)
+
+To find this, I created a filter of TV shows containing the term Stranger Things. Then I added the amount of hours from column M, and got an answer of **1893100000 hours**. What is surprising is how Stranger Things is a top 10 show only among english audiences. The show didn't even make it to the top 10 list for non-english TV shows. 
+
+How I got this answer: add filter and used the formula in H2 which is =FILTER(A2:G41, D2:D41 = "Stranger Things")
